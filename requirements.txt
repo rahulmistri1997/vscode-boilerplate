@@ -1,0 +1,5 @@
+## Added Requirements for Current Project (fastAPI)
+## Remember to Comment Unrequired Imports
+
+fastapi #Framework
+uvicorn #Uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools.
